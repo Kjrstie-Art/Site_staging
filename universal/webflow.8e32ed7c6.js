@@ -14273,7 +14273,7 @@ module.exports = _interopRequireDefault;
  * LICENSE file in the root directory of this source tree.
  *
  * @typechecks
- *
+ * 
  */
 
 /*eslint-disable no-self-compare */
